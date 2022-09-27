@@ -1,0 +1,10 @@
+unnamed package
+de.stocker.common
+de.stocker.controller
+de.stocker.json
+de.stocker.model
+de.stocker.model.dataWrappers
+de.stocker.network
+de.stocker.persistence
+de.stocker.preferences
+de.stocker.view
