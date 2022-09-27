@@ -7,3 +7,5 @@ The app can be started from the .jar file. It saves a .json properties file in t
 This repository also contains the accompanying documentation. Javadoc in English (/doc) and a PDF file in German (/documentation).
 
 The app was developed for a practical university project at the FernUni Hagen in spring/summer 2021.
+
+![Screenshot Stocker](screenshot.png)
